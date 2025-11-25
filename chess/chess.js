@@ -1,11 +1,11 @@
 let container=document.getElementById("chessboard-container");
 const size=8;
-
+// 
 
 container.style.display="grid";
 container.style.gridTemplateColumns='repeat(8,1fr)';
-container.style.width="400px";
-container.style.height="400px";
+container.style.width="500px";
+container.style.height="500px";
 
 
 for(let i=0;i<size;i++){
