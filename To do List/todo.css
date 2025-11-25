@@ -1,0 +1,52 @@
+body{
+    display: flex;
+    justify-content:center;
+    background-color: black;
+}
+.main-div{
+
+    background-color: blue;
+    margin-top:150px;
+    height: 450px;
+    width: 350px;
+    border-radius:30px;
+}
+.h2{
+    margin:0;
+    margin-left:100px;
+    font-weight:Bold;
+    color: white;
+}
+.input-box{
+    margin-left:65px;
+    margin-top:10px;
+    font-weight:bold;
+}
+.add-btn{
+    background-color:#05af32;
+    color:rgb(255, 255, 255)
+}
+.ul-list{
+    display:flex;
+    align-items: center;
+   list-style-type:none;
+   background-color: 
+   rgb(241, 206, 7);
+   width:260px;
+   font-weight: bold;
+   height:25px;
+   padding-top: 5px;
+   padding-left:3px ;
+   margin-top: 20px;
+   justify-content: space-between;
+   
+}
+
+.del-btn{
+   
+    background-color: red;
+    margin-left: 70px;
+}
+.edit-btn{
+    margin-left:90px;
+}
